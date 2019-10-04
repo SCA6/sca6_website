@@ -8,4 +8,5 @@ then add the files to local repo using git add filename
 then commit with comment using git commit -m "updated readme file"  
 the push to git in cloud using git push  
 now, you should see your updates on the internet at https://github.com/SCA6/sca6_website/tree/develop  
+Hi keith
  
