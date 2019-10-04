@@ -1,0 +1,144 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>SCA6 Website</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+          <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="Home.aspx" id="logo">SCA6</a></h1>
+
+                        <!-- Nav -->
+                        <nav id="nav">
+                            <a href="Home.aspx">Home</a>
+                            <a href="SCA6Information.aspx">SCA6 Information</a>
+                            <a href="PracticalTips.aspx">Practical Tips</a>
+                            <a href="SCA6Research.aspx">SCA6 Research</a>
+                            <a href="Funding.aspx">SCA6 Funding</a>
+                            <a href="ContactUs.aspx">Contact Us</a>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+            <div id="banner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6 col-12-medium">
+
+                            <!-- Banner Copy -->
+                            <p>Our 5 year vision is that research will be translated into a clinical trial to halt the progression of SCA6 symptoms. Our ultimate long term vision is to prevent SCA6 symptoms in future generations.</p>
+                            <a href="SCA6Information.aspx" class="button-large">See more information</a>
+
+                        </div>
+                        <div class="col-6 col-12-medium imp-medium">
+
+                            <!-- Banner Image -->
+                            <a href="#" class="bordered-feature-image"><img src="images/Ataxia.png" alt="" /></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder id="head" runat="server">
+        </asp:ContentPlaceHolder>
+        
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Information</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                           <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK1140/">Informative article on SCA6 written by Dr. Gomez</a></li>
+											<li><a href=" http://ataxia.uchicago.edu">University of Chicago Ataxia center</a></li>
+											<li><a href=" https://ataxia.org/wp-content/uploads/2017/07/SCA-Making_an_Informed_Choice_About_Genetic_Testing.pdf">Genetic testing</a></li>
+											<li><a href=" https://secureservercdn.net/166.62.112.199/y1x.318.myftpupload.com/wp-content/uploads/2019/04/US-Neurologist-Resource-List-03-25-19.pdf">Ataxia centers around the country</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="https://voices.uchicago.edu/gomezlab">GomezLab</a></li>
+											<li><a href="https://www.nejm.org/doi/10.1056/NEJMoa1900907">Publication</a></li>
+											<li><a href=" https://www.ncbi.nlm.nih.gov/books/NBK1140/">Informative article written by Dr. Gomez</a></li>
+											<li><a href="http://neurology.uchicago.edu/page/about-dr-gomez">About Dr. Gomex</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                           <li><a href="http://ataxia.uchicago.edu">Ataxia Center at Univeristy of Chicago</a></li>
+											<li><a href="https://www.uchicagomedicine.org/forefront/news/2016/july/new-technique-targets-gene-that-causes-neurodegenerative-disease">On going research</a></li>
+                                            <li><a href="#">Accumsan suspendisse</a></li>
+                                            <li><a href="#">Eu varius vitae magna</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="#">Neque amet dapibus</a></li>
+                                            <li><a href="#">Sed mattis quis rutrum</a></li>
+                                            <li><a href="#">Accumsan suspendisse</a></li>
+                                            <li><a href="#">Eu varius vitae magna</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                            <p>
+                                Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse eu
+                                varius nibh. Suspendisse vitae magna eget odio amet mollis. Duis neque nisi,
+                                dapibus sed mattis quis, sed rutrum accumsan sed. Suspendisse eu varius nibh
+                                lorem ipsum amet dolor sit amet lorem ipsum consequat gravida justo mollis.
+                            </p>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; SCA6. All rights reserved. | Design: <a href="http://sca6.org">SCA6 Website</a>
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    </div>
+    </form>
+</body>
+</html>
