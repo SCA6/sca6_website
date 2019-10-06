@@ -8,12 +8,10 @@
 
                         <!-- Feature #1 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/Medical_5.jpg" alt="" /></a>
+                            <a href="#" class="bordered-feature-image"><img src="images/hands.jpg" alt="" /></a>
                             <h2>Connect</h2>
                             <p>
-                                Our goal is to connect people affected by spinocerebellar ataxia type 6 (SCA6),
-                                share SCA6 information, provide a forum for discussion and raise awareness for advancement 
-                                of SCA6 research.To contact us please feel free to <strong>e-mail</strong> <a href="ContactUs.aspx">See more</a>
+                                Connect with people affected by SCA6. Please feel free to <a href="mailto:sca6net@gmail.com">e-mail</a> to join the SCA6 Network.  <a href="ContactUs.aspx">See more</a>
                             </p>
                         </section>
 
@@ -23,9 +21,9 @@
                         <!-- Feature #2 -->
                         <section>
                             <a href="#" class="bordered-feature-image"><img src="images/Medical_3.jpg" alt="" /></a>
-                            <h2>Practical SCA6 Information</h2>
+                            <h2>SCA6 Information</h2>
                             <p>
-                                General information about SCA6 Symptoms, Diagnosis, Cause, and Inheritance. <a href="SCA6Information.aspx">See more</a>
+                                General information about SCA6 symptoms, testing, diagnosis, cause, and inheritance. <a href="SCA6Information.aspx">See more</a>
                             </p>
                         </section>
 
@@ -37,7 +35,7 @@
                             <a href="#" class="bordered-feature-image"><img src="images/Medical_2.jpg" alt="" /></a>
                             <h2>Practical Tips</h2>
                             <p>
-                                General health, modifications, movement, sight, speech, Sleep. <a href="PracticalTips.aspx">See more</a> 
+                                Practical tips for living with SCA6. <a href="PracticalTips.aspx">See more</a> 
                             </p>
                         </section>
 
@@ -47,9 +45,9 @@
                         <!-- Feature #4 -->
                         <section>
                             <a href="#" class="bordered-feature-image"><img src="images/DNA_1.jpg" alt="" /></a>
-                            <h2>SCA6 Research and Funding</h2>
+                            <h2>SCA6 Research</h2>
                             <p>
-                                See additional, updated information on SCA6 Research available today. <a href="SCA6Research.aspx">See more</a>
+                                Learn more about SCA6 research. <a href="SCA6Research.aspx">See more</a>
                             </p>
                         </section>
 
@@ -62,29 +60,13 @@
         <section id="content">
             <div class="container">
                 <div class="row aln-center">
-                    <div class="col-4 col-12-medium">
-
-                        <!-- Box #1 -->
-                        <section>
-                            <header>
-                                <h2>Who we are</h2>
-                                <h3>See who is part of this group</h3>
-                            </header>
-                            <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
-                            <p>
-                                We are a group of people who are part of this research group.  Many of us have, or have family
-                                members who have SCA6 or just want to know more about SCA6.
-                            </p>
-                        </section>
-
-                    </div>
                     <div class="col-4 col-6-medium col-12-small">
 
                         <!-- Box #2 -->
                         <section>
                             <header>
-                                <h2>What is our goal?</h2>
-                                <h3>Mission Statement</h3>
+                                <h2>What is our mission?</h2>
+                                <h3>Our goals</h3>
                             </header>
                             <ul class="check-list">
                                 <li>Connect people affected by spinocerebellar ataxia type 6 (SCA6)</li>
@@ -95,6 +77,23 @@
                         </section>
 
                     </div>
+                    <div class="col-4 col-12-medium">
+
+                        <!-- Box #1 -->
+                        <section>
+                            <header>
+                                <h2>Events</h2>
+                                <h3>Meetings and Teleconferences </h3>
+                            </header>
+                            <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
+                            <p>
+                                We are a group of people who are part of this research group.  Many of us have, or have family
+                                members who have SCA6 or just want to know more about SCA6.
+                            </p>
+                        </section>
+
+                    </div>
+
                     <div class="col-4 col-6-medium col-12-small">
 
                         <!-- Box #3 -->
