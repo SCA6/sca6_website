@@ -72,7 +72,7 @@
                             </header>
                             <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
                             <p>
-                                We are a group of people who are part of this resurch group.  Many of us have, or have family
+                                We are a group of people who are part of this research group.  Many of us have, or have family
                                 members who have SCA6 or just want to know more about SCA6.
                             </p>
                         </section>
@@ -100,8 +100,8 @@
                         <!-- Box #3 -->
                         <section>
                             <header>
-                                <h2>What People Are Saying</h2>
-                                <h3>And a final subheading about our clients</h3>
+                                <h2>Latest Developments</h2>
+                                <h3>Research, publications, trial updates, and news</h3>
                             </header>
                             <ul class="quote-list">
                                 <li>

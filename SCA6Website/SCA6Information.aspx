@@ -9,7 +9,7 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>Practice SCA6 Information</h2>
+											<h2>SCA6 Information</h2>
 											<h3>General information</h3>
 										</header>
 										<p>
