@@ -8,7 +8,7 @@
 
                         <!-- Feature #1 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/hands.jpg" alt="" /></a>
+                            <a href="#" class="bordered-feature-image"><img src="images/hands2.jpg" alt="" /></a>
                             <h2>Connect</h2>
                             <p>
                                 Connect with people affected by SCA6. Please feel free to <a href="mailto:sca6net@gmail.com">e-mail</a> to join the SCA6 Network.  <a href="ContactUs.aspx">See more</a>
@@ -32,7 +32,7 @@
 
                         <!-- Feature #3 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/Medical_2.jpg" alt="" /></a>
+                            <a href="#" class="bordered-feature-image"><img src="images/helpful_tips2.png" alt="" /></a>
                             <h2>Practical Tips</h2>
                             <p>
                                 Practical tips for living with SCA6. <a href="PracticalTips.aspx">See more</a> 
@@ -82,13 +82,19 @@
                         <!-- Box #1 -->
                         <section>
                             <header>
-                                <h2>Events</h2>
-                                <h3>Meetings and Teleconferences </h3>
+                                <h2>Groups, Meetings and Events</h2>
+                                <h3>What's going on </h3>
                             </header>
-                            <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
+                            <!-- <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a> -->
                             <p>
-                                We are a group of people who are part of this research group.  Many of us have, or have family
-                                members who have SCA6 or just want to know more about SCA6.
+                                SCA6 Network: We are a group of people who are part of this research group.  Many of us have, or have family
+                                members who have SCA6 or just want to know more about SCA6. <a href="ContactUs.aspx">See more</a>
+                            </p>
+                            <p>
+                                September 25th is <a href="https://www.awarenessdays.com/awareness-days-calendar/international-ataxia-awareness-day-2019/">International Ataxia Awareness Day</a>
+                            </p>
+                            <p>
+                                National Ataxia Foundation includes support group events on its <a href="https://ataxia.org/events/">Calendar of Events</a>
                             </p>
                         </section>
 
@@ -102,21 +108,27 @@
                                 <h2>Latest Developments</h2>
                                 <h3>Research, publications, trial updates, and news</h3>
                             </header>
-                            <ul class="quote-list">
+                            <ul>
                                 <li>
-                                    <img src="images/pic06.jpg" alt="" />
-                                    <p>"Neque nisidapibus mattis"</p>
-                                    <span>Jane Doe, CEO of UntitledCorp</span>
+                                    <!--<img src="images/pic08.jpg" alt="" /> -->
+                                    <p>
+                                        Study of α1ACT supports RNA therapy as good strategy against SCA6:<br />
+                                        <a href="https://www.cell.com/neuron/fulltext/S0896-6273(19)30171-0#secsectitle0020">α1ACT Is Essential for Survival and Early Cerebellar Programming in a Critical Neonatal Window</a>
+                                    </p>     
                                 </li>
                                 <li>
-                                    <img src="images/pic07.jpg" alt="" />
-                                    <p>"Lorem ipsum consequat!"</p>
-                                    <span>John Doe, President of FakeBiz</span>
+                                    <!--<img src="images/pic07.jpg" alt="" /> -->
+                                    <p>
+                                        RNA therapy decreases Huntingtin protein in patients with Huntington's Disease:<br />
+                                        <a href="https://www.nejm.org/doi/10.1056/NEJMoa1900907">Targeting Huntingtin Expression in Patients with Huntington’s Disease</a>
+                                    </p>
                                 </li>
                                 <li>
-                                    <img src="images/pic08.jpg" alt="" />
-                                    <p>"Magna veroeros amet tempus"</p>
-                                    <span>Mary Smith, CFO of UntitledBiz</span>
+                                    <!-- <img src="images/pic06.jpg" alt="" /> -->
+                                    <p>
+                                        RNA therapy prevents SCA6 symptoms in mice:<br />
+                                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/29374372">Targeting the CACNA1A IRES as a Treatment for Spinocerebellar Ataxia Type 6.</a>
+                                    </p>
                                 </li>
                             </ul>
                         </section>
