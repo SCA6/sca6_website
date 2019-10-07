@@ -4,16 +4,16 @@
     <section id="content">
 					<div class="container">
 						<div class="row">
-							<div class="col-9 col-12-medium">
-
+							<!-- Original 75/25 div layout: <div class="col-9 col-12-medium"> -->
+                            <div class="col-12">
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>Practice SCA6 Information</h2>
+											<h2>SCA6 Information</h2>
 											<h3>General information</h3>
 										</header>
 										<p>
-											Spinocerebellar ataxia (SCA6) is a rare, slowly progressive, disease that can result
+											<u>Symptoms:</u><br /> Spinocerebellar ataxia (SCA6) is a rare, slowly progressive, disease that can result
                                             in dizziness, difficulty with balance, vision disturbances, and difficulty with speaking
                                             clearly. These symptoms are often not experienced until later in life, but can occur 
                                             earlier with a usual range of presentation between 43 and 52 years of age. One difference 
@@ -22,7 +22,7 @@
                                             altered by SCA6.
 										</p>
 										<p>
-											SCA6 can be diagnosed by collecting and testing saliva. An individual who wants to be tested
+											<u>Diagnosis:</u><br /> SCA6 can be diagnosed by collecting and testing saliva. An individual who wants to be tested
                                             can request a saliva kit through a qualified physician and often with an offer of genetic 
                                             counseling. Either in the office or at home, the individual spits into a tube to collect the
                                             saliva. The saliva specimen is then mailed to the testing lab. The result is provided to the
@@ -30,27 +30,27 @@
                                             for those who want it. There are laws against genetic discrimination by health insurance companies
                                             and employers; however, life insurance companies are less restricted. As such, an individual
                                             may choose to pay out-of-pocket for genetic testing to assure the confidentiality of the results.
-										</p>
-										<p>
-											SCA6 is caused by an increase in CAG repeats in the CACNA1A gene. Affected individuals have 20 to 
-                                            33 repeats; unaffected individuals have 18 or fewer CAG repeats; the clinical presentation with 19 
-                                            repeats is variable. The increased number of repeats in the CACNA1A gene results in creation of an 
-                                            abnormal protein that can lead to loss of Purkinje cells in the cerebellum. Purkinje cells in the 
-                                            cerebellum are important for balance and speech. The damage to the cerebellum can be detected by 
-                                            MRI imaging of the brain with a decrease in size of the cerebellum. Of note, MRI may be performed
-                                            before genetics testing. With a family history of SCA6 and thinning of the cerebellum identified 
+                                            The damage to the cerebellum can be detected by MRI imaging of the brain with a decrease in size of the cerebellum. 
+                                            With a family history of SCA6 and thinning of the cerebellum identified 
                                             by MRI, the individual likely does have SCA6, but still may want confirmation by genetic testing.
                                             Of note, MRI results do NOT correlate with symptoms. In other words, some people with severe 
                                             cerebellar degradation have almost no symptoms; others with very little degradation have severe symptoms.
 										</p>
 										<p>
-											Inheritance: The risk of SCA6 in children of affected individuals is 50%. SCA6 is inherited in an 
+											<u>Cause:</u><br /> SCA6 is caused by an increase in CAG repeats in the CACNA1A gene. Affected individuals have 20 to 
+                                            33 repeats; unaffected individuals have 18 or fewer CAG repeats; the clinical presentation with 19 
+                                            repeats is variable. The increased number of repeats in the CACNA1A gene results in creation of an 
+                                            abnormal protein that can lead to loss of Purkinje cells in the cerebellum. Purkinje cells in the 
+                                            cerebellum are important for balance and speech. 
+										</p>
+										<p>
+											<u>Inheritance:</u><br /> The risk of SCA6 in children of affected individuals is 50%. SCA6 is inherited in an 
                                             autosomal dominant manner meaning that abnormal CAG expansion on just one chromosome causes the disease.
                                             At times, the symptoms of the disease are so late onset and/or so mild that SCA6 may not be diagnosed. 
                                             Children of such individuals still likely have a 50% risk for SCA6.
 										</p>
 										<p>
-											It is possible to perform preimplantation diagnosis and in vitro fertilization if a couple with an affected 
+											<u>Additional Information:</u><br /> It is possible to perform preimplantation diagnosis and in vitro fertilization if a couple with an affected 
                                             or even at risk individual were planning a pregnancy and desired this. An embryo could be selected that lacks
                                             the CAG expansion for implantation. Due to the general risks, costs, inconvenience, and potential complications,
                                             such as twins or spontaneous loss of the baby, with such a procedure, and because SCA6 is usually such a 
@@ -64,9 +64,10 @@
 									</section>
 
 							</div>
+	<!-- Sidebar 
 							<div class="col-3 col-12-medium">
 
-								<!-- Sidebar -->
+							
 									<section>
 										<header>
 											<h2>Magna Phasellus</h2>
@@ -97,6 +98,7 @@
 									</section>
 
 							</div>
+-->
 						</div>
 					</div>
 				</section>
