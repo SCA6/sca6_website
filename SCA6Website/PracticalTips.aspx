@@ -12,12 +12,13 @@
 											<h2>More Info:</h2>
 										</header>
 										<ul class="link-list">
-											<li><a href="https://www.ncbi.nlm.nih.gov/books/NBK1140/">Informative article on SCA6 written by Dr. Gomez</a></li>
+											<li><a href="https://www.ncbi.nlm.nih.gov/books/NBK1140/">SCA6 Summary written by Dr. Gomez</a></li>
 											<li><a href=" http://ataxia.uchicago.edu">University of Chicago Ataxia center</a></li>
-											<li><a href=" https://ataxia.org/wp-content/uploads/2017/07/SCA-Making_an_Informed_Choice_About_Genetic_Testing.pdf">Genetic testing</a></li>
+											<li><a href=" https://ataxia.org/wp-content/uploads/2017/07/SCA-Making_an_Informed_Choice_About_Genetic_Testing.pdf">Informed choice on genetic testing</a></li>
 											<li><a href=" https://secureservercdn.net/166.62.112.199/y1x.318.myftpupload.com/wp-content/uploads/2019/04/US-Neurologist-Resource-List-03-25-19.pdf">Ataxia centers around the country</a></li>
 										</ul>
 									</section>
+                                <!-- section deferred until additional content ready
 									<section>
 										<header>
 											<h2>Ipsum Dolor</h2>
@@ -33,6 +34,7 @@
 											<li><a href="#">Nascetur ridiculus</a></li>
 										</ul>
 									</section>
+                                -->
 
 							</div>
 							<div class="col-9 col-12-medium imp-medium">
