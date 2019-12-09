@@ -48,6 +48,27 @@
                                         <a href="https://www.ncbi.nlm.nih.gov/pubmed/29374372">Targeting the CACNA1A IRES as a Treatment for Spinocerebellar Ataxia Type 6.</a>
                                     </p>
                                 </li>
+                                <li>
+                                    <!-- <img src="images/pic06.jpg" alt="" /> -->
+                                    <p>
+                                        General discussion:<br />
+                                        <a href="https://www.brainandlife.org/articles/inherited-ataxias-are-rare-genetic-conditions-that-cause-problems-with/">New Research Gives Hope to Patients with Inherited Ataxias</a>
+                                    </p>
+                                </li>
+                                <li>
+                                    <!-- <img src="images/pic06.jpg" alt="" /> -->
+                                    <p>
+                                        New England Journal of Medicine (limited access):<br />
+                                        <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1813279">Patient-Customized Oligonucleotide Therapy for a Rare Genetic Disease</a>
+                                    </p>
+                                </li>
+                                <li>
+                                    <!-- <img src="images/pic06.jpg" alt="" /> -->
+                                    <p>
+                                        This article is from a journal with restricted access and does not have a means to view for free. It's here for reference:<br />
+                                        <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.410420616?sid=nlm%3Apubmed">Spinocerebellar ataxia type 6: gaze-evoked and vertical nystagmus, Purkinje cell degeneration, and variable age of onset</a>
+                                    </p>
+                                </li>                                    
                             </ul>
 									</section>
 
