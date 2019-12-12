@@ -54,7 +54,7 @@
                         <div class="col-4 col-12-medium imp-medium">
 
                             <!-- Banner Image -->
-                          <a href="#" class="bordered-feature-image"><img src="images/Header2.jpg" alt="" /></a>  
+                          <a href="#" class="bordered-feature-image" style="width:420px;height:260px"><img src="images/Header2.jpg" alt="" style="width:400px;height:240px"/></a>  
                         </div>
                     </div>
                 </div>

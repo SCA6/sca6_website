@@ -48,8 +48,8 @@
 										<ul style="list-style-type:disc;">
                                             <li>Try to maintain a healthy weight.</li> 
                                             <li>Exercise to increase muscle strength 
-                                            and balance. Exercise does not stop disease progression, but can “train” body to 
-                                            compensate for as long as possible.</li> <li>Consider physical therapy.</li> <li>Consider stopping or 
+                                            and balance. Even if exercise does not stop disease progression, it can help “train” the body to 
+                                            compensate.</li> <li>Consider physical therapy.</li> <li>Consider stopping or 
                                             reducing drinking of alcohol because alcohol exacerbates symptoms of speech difficulty 
                                             and balance.</li>
                                             <br />Perspective: These healthy habits are good for everyone, whether affected, 
@@ -68,17 +68,20 @@
 										<ul style="list-style-type:disc;"> <li>Annual or semiannual evaluation by a neurologist. </li>
                                             <li>Physical therapists can help
                                             focus exercise on retention of muscle strength and balance.</li> 
+                                            <li>Some members have found exercises at this link useful: <a href="https://ataxia.org/11-exercises-for-ataxia-patients/">click here</a></li>
                                             <li>Acetazolamide may decrease episodes
                                             of ataxia.</li> 
                                             <li>Vestibular suppressants may reduce vertigo.</li> 
                                             <li>Tremor-controlling drugs are not usually
                                             effective in reducing cerebellar tremors.</li> <li>Driving ability should be assessed by professionals
                                             periodically.</li>
+
 										</ul>
 										<h2>Sight</h2>
                                         <ul style="list-style-type:disc;" >
 											<li>Ophthalmology consultation may help with refractive or surgical management of diplopia.</li> 
                                             <li>Prisms in glasses may help.</li>
+                                            <li>Ampyra can help with nystagmus (extra wiggly Eye movements) and it might help with vertigo</li>
 										</ul>
 										<h2>Speech</h2>
                                         <ul style="list-style-type:disc;" >
@@ -90,10 +93,10 @@
                                             may help identify safest behaviors and consistency of food least likely to trigger aspiration.</li>
                                             <li>Thicker food consistencies and chin tuck, with head tilted down and straight, may help.</li>
                                             <li><div style="float:left;width:70%;height: auto">
-                                                   One of our members suggested the Contigo non spill coffee mug after trying several:
+                                                   One of our members suggested the 'Contigo non spill coffee mug' after trying several:
                                                 </div>
                                                 <div style="float:right;width:30%;height: auto">
-                                                   <a href="https://smile.amazon.com/Contigo-AUTOSEAL-Vacuum-Insulated-Stainless-Passion/dp/B073WB5DG9/ref=sr_1_1_sspa?crid=FX0YOVYZILIQ&keywords=contigo%2Bcoffee%2Btravel%2Bmug&qid=1575818966&sprefix=contigo%2Bcoffe%2Caps%2C186&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlpOTEZKMERQODJaJmVuY3J5cHRlZElkPUEwMTI1NDgxMkZIWksyVTdRRjNCNiZlbmNyeXB0ZWRBZElkPUEwNTY0ODc5Mk41T1Y2NklOV1MyVyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"><img src="images/non_spill_coffee_mug.jpg" alt="" style="width:50px;height:100px"  /></a>
+                                                   <a href="https://smile.amazon.com/Contigo-AUTOSEAL-Vacuum-Insulated-Stainless-Passion/dp/B073WB5DG9/ref=sr_1_1_sspa?crid=FX0YOVYZILIQ&keywords=contigo%2Bcoffee%2Btravel%2Bmug&qid=1575818966&sprefix=contigo%2Bcoffe%2Caps%2C186&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlpOTEZKMERQODJaJmVuY3J5cHRlZElkPUEwMTI1NDgxMkZIWksyVTdRRjNCNiZlbmNyeXB0ZWRBZElkPUEwNTY0ODc5Mk41T1Y2NklOV1MyVyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"><img src="images/non_spill_coffee_mug.jpg" alt="" style="width:50px;height:100px"  />(click to see on amazon.com)</a>
 										        </div>
                                             </li>
                                                 </ul>
