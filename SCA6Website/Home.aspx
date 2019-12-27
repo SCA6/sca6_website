@@ -8,10 +8,10 @@
 
                         <!-- Feature #1 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/hands2.jpg" alt="" /></a>
+                            <a href="ContactUs.aspx" class="bordered-feature-image"><img src="images/hands2.jpg" alt="" /></a>
                             <h2>Connect</h2>
                             <p>
-                                Connect with people affected by SCA6. Please feel free to <a href="mailto:sca6net@gmail.com">e-mail</a> to join the SCA6 Network.  <a href="ContactUs.aspx">See more</a>
+                                Connect with people affected by SCA6. Please feel free to email <a href="mailto:sca6net@gmail.com">sca6net@gmail.com</a> to join the SCA6 Network.  <a href="ContactUs.aspx">See more</a>
                             </p>
                         </section>
 
@@ -20,7 +20,7 @@
 
                         <!-- Feature #2 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/Medical_3.jpg" alt="" /></a>
+                            <a href="SCA6Information.aspx" class="bordered-feature-image"><img src="images/Medical_3.jpg" alt="" /></a>
                             <h2>SCA6 Information</h2>
                             <p>
                                 General information about SCA6 symptoms, testing, diagnosis, cause, and inheritance. <a href="SCA6Information.aspx">See more</a>
@@ -32,7 +32,7 @@
 
                         <!-- Feature #3 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/helpful_tips2.png" alt="" /></a>
+                            <a href="PracticalTips.aspx" class="bordered-feature-image"><img src="images/helpful_tips2.png" alt="" /></a>
                             <h2>Practical Tips</h2>
                             <p>
                                 Practical tips for living with SCA6. <a href="PracticalTips.aspx">See more</a> 
@@ -44,7 +44,7 @@
 
                         <!-- Feature #4 -->
                         <section>
-                            <a href="#" class="bordered-feature-image"><img src="images/DNA_1.jpg" alt="" /></a>
+                            <a href="SCA6Research.aspx" class="bordered-feature-image"><img src="images/DNA_1.jpg" alt="" /></a>
                             <h2>SCA6 Research</h2>
                             <p>
                                 Learn more about SCA6 research. <a href="SCA6Research.aspx">See more</a>
