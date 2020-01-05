@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="SCA6Research.aspx.cs" Inherits="SCA6Research" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ThinPage.master" AutoEventWireup="true" CodeFile="SCA6Research.aspx.cs" Inherits="SCA6Research" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <section id="content">
@@ -25,6 +25,11 @@
                                             hopeful that a similar RNA-based strategy, though specific to SCA6 as conceived by Dr. Gomez 
                                             in his mouse model for SCA6, might provide hope for an effective clinical trial in the future
                                             to prevent progression of SCA6 symptoms.
+										</p>
+                                        <p>
+											The research strategy being pursued by Dr. Gomez's lab to inhibit formation of the a1ACT 
+                                            protein, the protein that causes SCA6, is described here: <a href="SCA6MechanismDetail.aspx">SCA6 Therapeutic Strategy</a>. This was 
+                                            generously created and shared by our SCA6 Network Scientist, "S." She also made a <a href="SCA6Glossary.aspx">glossary</a> of the vocabulary.
 										</p>
 								<ul>
                                 <li>
