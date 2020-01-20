@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ThinPage.master" AutoEventWireup="true" CodeFile="SCA6Information.aspx.cs" Inherits="SCA6Information" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="SCA6Information.aspx.cs" Inherits="SCA6Information" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <section id="content">
