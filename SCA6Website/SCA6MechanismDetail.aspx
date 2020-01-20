@@ -81,6 +81,8 @@
                                             Key results from the 2013 paper, and from subsequent papers published in 2016 (‘Science Translational Medicine’) and 2019 (‘Neuron’) – both also from the Gomez lab – 
                                             are described here. 
 										</p>
+										<p>GLOSSARY<br />
+											follow this link for a technical <a href="SCA6Glossary.aspx">Glossary</a> </p>
                                         </section>
 
 							</div>

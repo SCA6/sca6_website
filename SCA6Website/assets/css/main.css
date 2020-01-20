@@ -1627,6 +1627,10 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+		#content strong {
+			font-weight:bold;
+		}
+
 		#content a {
 			color: #ED391B;
 		}
