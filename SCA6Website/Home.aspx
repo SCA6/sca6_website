@@ -1,6 +1,34 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+         <section id="header">
+            <div id="banner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-7 col-12-medium">
+
+                            <!-- Banner Copy -->
+                            <p>Our 5 year mission is that research will be translated into a clinical trial to halt the progression of SCA6 symptoms.</p>
+                            <p>Our ultimate long term vision is to prevent SCA6 in future generations.</p>
+                            <!--
+                            <a href="SCA6Information.aspx" class="button-large">See more information</a>
+                            -->
+                            <asp:ImageButton id="imagebutton1" runat="server" PostBackUrl="https://giving.uchicago.edu/site/Donation2?df_id=1818&mfc_pref=T&1818.donation=form1&desig_other=Gomez%20General%20Research%20(33595-4250-1)&s_src=QLRAB" Width="150px"
+           AlternateText="Donate?"
+           ImageAlign="left"
+           ImageUrl="images/DonateNow.png"
+           />
+
+                        </div>
+                        <div class="col-4 col-12-medium imp-medium">
+
+                            <!-- Banner Image -->
+                          <a href="#" class="bordered-feature-image" style="width:420px;height:260px"><img src="images/Header2.jpg" alt="" style="width:400px;height:240px"/></a>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     <section id="features">
             <div class="container">
                 <div class="row">

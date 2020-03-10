@@ -26,6 +26,11 @@
                                             in his mouse model for SCA6, might provide hope for an effective clinical trial in the future
                                             to prevent progression of SCA6 symptoms.
 										</p>
+                                        <p>
+											The research strategy being pursued by Dr. Gomez's lab to inhibit formation of the a1ACT 
+                                            protein, the protein that causes SCA6, is described here: <a href="SCA6MechanismDetail.aspx">SCA6 Therapeutic Strategy</a>. This was 
+                                            generously created and shared by our SCA6 Network Scientist, "S." She also made a technical <a href="SCA6Glossary.aspx">glossary</a>.
+										</p>
 								<ul>
                                 <li>
                                     <!--<img src="images/pic08.jpg" alt="" /> -->

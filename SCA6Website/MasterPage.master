@@ -26,36 +26,10 @@
                             <a href="PracticalTips.aspx">Practical Tips</a>
                             <a href="SCA6Research.aspx">SCA6 Research</a>
                             <a href="Funding.aspx">SCA6 Funding</a>
-                            <a href="ContactUs.aspx">Connect With Us</a>
+                            <a href="ContactUs.aspx">Connect</a>
                             <!-- <a href="FAQ.aspx">FAQ</a> -->
                         </nav>
 
-                    </div>
-                </div>
-            </div>
-            <div id="banner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-7 col-12-medium">
-
-                            <!-- Banner Copy -->
-                            <p>Our 5 year vision is that research will be translated into a clinical trial to halt the progression of SCA6 symptoms.</p>
-                            <p>Our ultimate long term vision is to prevent SCA6 in future generations.</p>
-                            <!--
-                            <a href="SCA6Information.aspx" class="button-large">See more information</a>
-                            -->
-                            <asp:ImageButton id="imagebutton1" runat="server" PostBackUrl="https://giving.uchicago.edu/site/Donation2?df_id=1818&mfc_pref=T&1818.donation=form1&desig_other=Gomez%20General%20Research%20(33595-4250-1)&s_src=QLRAB" Width="150px"
-           AlternateText="Donate?"
-           ImageAlign="left"
-           ImageUrl="images/DonateNow.png"
-           />
-
-                        </div>
-                        <div class="col-4 col-12-medium imp-medium">
-
-                            <!-- Banner Image -->
-                          <a href="#" class="bordered-feature-image" style="width:420px;height:260px"><img src="images/Header2.jpg" alt="" style="width:400px;height:240px"/></a>  
-                        </div>
                     </div>
                 </div>
             </div>
@@ -127,7 +101,7 @@
             &copy; SCA6. All rights reserved. | Design: <a href="http://sca6.org">SCA6 Website</a>
         </div>
 
-    </div>
+   
 
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>

@@ -84,8 +84,8 @@ input, select, textarea {
 	body {
 		background: #D4D9DD url("images/bg03.jpg");
 		color: #474f51;
-		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-size: 13pt;
+		font-family: Arial;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -93,7 +93,7 @@ input, select, textarea {
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: Arial;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -1543,7 +1543,7 @@ input, select, textarea {
 			#header nav a {
 				color: #c6c8c8;
 				text-decoration: none;
-				font-size: 1.4em;
+				font-size: 1.2em;
 				margin-left: 60px;
 				outline: 0;
 			}
@@ -1625,6 +1625,10 @@ input, select, textarea {
 		#content h3 {
 			color: #96a9b5;
 			font-size: 1.25em;
+		}
+
+		#content strong {
+			font-weight:bold;
 		}
 
 		#content a {
