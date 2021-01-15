@@ -13,7 +13,7 @@
                             <!--
                             <a href="SCA6Information.aspx" class="button-large">See more information</a>
                             -->
-                            <asp:ImageButton id="imagebutton1" runat="server" PostBackUrl="https://giving.uchicago.edu/site/Donation2?df_id=1818&mfc_pref=T&1818.donation=form1&desig_other=Gomez%20General%20Research%20(33595-4250-1)&s_src=QLRAB" Width="150px"
+                            <asp:ImageButton id="imagebutton1" runat="server" PostBackUrl="http://giving.uchicago.edu/site/TR?px=1057414&fr_id=1150&pg=personal" Width="150px"
            AlternateText="Donate?"
            ImageAlign="left"
            ImageUrl="images/DonateNow.png"

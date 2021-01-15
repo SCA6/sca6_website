@@ -14,7 +14,7 @@
 										<p>
 										Understanding the molecular basis of SCA6 suggests a therapeutic strategy.
 										</p>
-<img src="images/SCA6TherapeuticStrategy.jpg" alt="" style="width:850px;height:600px"  />
+<img src="images/ASO&miRNA therapy cartoon v3.jpg" alt="" style="width:800px;"  />
 
 
 

@@ -13,7 +13,7 @@
 										<p>
 											Dr. Gomez’s SCA6 research has been supported with the help of federal grants, 
                                             pharmaceutical support, and individual donations. To donate directly to Dr. Gomez’s 
-                                            <a href="https://giving.uchicago.edu/site/Donation2?df_id=1818&mfc_pref=T&1818.donation=form1&desig_other=Gomez%20General%20Research%20(33595-4250-1)&s_src=QLRAB">research</a>.
+                                            <a target="_blank" href="http://giving.uchicago.edu/site/TR?px=1057414&fr_id=1150&pg=personal">research</a>.
                                             In the special instructions field, please list “Dr. Christopher Gomez Ataxia Research Fund.”
 										</p>
 										
