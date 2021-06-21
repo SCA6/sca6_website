@@ -19,7 +19,7 @@
                                             earlier with a usual range of presentation between 43 and 52 years of age. One difference 
                                             between SCA6 and other ataxia types is that the progression of symptoms tends to be slow. 
                                             Life expectancy and mentation (ability to think and remember clearly) does not seem to be 
-                                            altered by SCA6.
+                                            significantly altered by SCA6. 
 										</p>
 										<p>
 											<u>Diagnosis:</u><br /> SCA6 can be diagnosed by collecting and testing saliva. An individual who wants to be tested
@@ -33,11 +33,11 @@
                                             The damage to the cerebellum can be detected by MRI imaging of the brain with a decrease in size of the cerebellum. 
                                             With a family history of SCA6 and thinning of the cerebellum identified 
                                             by MRI, the individual likely does have SCA6, but still may want confirmation by genetic testing.
-                                            Of note, MRI results do NOT correlate with symptoms. In other words, some people with severe 
-                                            cerebellar degradation have almost no symptoms; others with very little degradation have severe symptoms.
+                                            Of note, MRI results may not correlate with symptoms. In other words, some people with severe 
+                                            cerebellar degradation may have mild symptoms; while others with very little degradation may have more severe symptoms.
 										</p>
 										<p>
-											<u>Cause:</u><br /> SCA6 is caused by an increase in CAG repeats in the CACNA1A gene. Affected individuals have 20 to 
+											<u>Cause:</u><br /> SCA6 is caused by an increase in CAG repeats in the CACNA1A gene (<a href="SCA6MechanismDetail.aspx">SCA6 Molecular Basis</a>). Affected individuals have 20 to 
                                             33 repeats; unaffected individuals have 18 or fewer CAG repeats; the clinical presentation with 19 
                                             repeats is variable. The increased number of repeats in the CACNA1A gene results in creation of an 
                                             abnormal protein that can lead to loss of Purkinje cells in the cerebellum. Purkinje cells in the 
@@ -52,9 +52,9 @@
 										<p>
 											<u>Additional Information:</u><br /> It is possible to perform preimplantation diagnosis and in vitro fertilization if a couple with an affected 
                                             or even at risk individual were planning a pregnancy and desired this. An embryo could be selected that lacks
-                                            the CAG expansion for implantation. Due to the general risks, costs, inconvenience, and potential complications,
-                                            such as twins or spontaneous loss of the baby, with such a procedure, and because SCA6 is usually such a 
-                                            mild late onset disease, this may not be advisable, but it is an option. Genetic testing of children is 
+                                            the CAG expansion for implantation. Due to the general risks, costs, inconvenience, and potential complications
+                                            with such a procedure, and because SCA6 is usually such a 
+                                            mild late onset disease, this may not be desired. Genetic testing of children is 
                                             strongly discouraged because of the late onset and mild nature of SCA6 with no way to prevent the onset 
                                             of SCA6 symptoms currently available.
 

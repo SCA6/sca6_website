@@ -53,8 +53,8 @@
                                             reducing drinking of alcohol because alcohol exacerbates symptoms of speech difficulty 
                                             and balance.</li>
                                             <br />Perspective: These healthy habits are good for everyone, whether affected, 
-                                            at risk, or a caregiver. Apparently, it is trendy now with the next generation to drink
-                                            non-alcoholic fancy drinks that are hydrating and fun with the pleasant side-affect that
+                                            at risk, or a caregiver. Apparently, it is trendy now to drink
+                                            exotic non-alcoholic drinks that are fun with the upside that
                                             you feel well the next morning.
 										</ul>
 										<h2>Home modifications</h2>
@@ -71,7 +71,7 @@
                                             <li>Some members have found exercises at this link useful: <a href="https://ataxia.org/11-exercises-for-ataxia-patients/">click here</a></li>
                                             <li>Acetazolamide may decrease episodes
                                             of ataxia.</li> 
-                                            <li>Vestibular suppressants may reduce vertigo.</li> 
+                                            <li>Vestibular suppressants may reduce vertigo(dizziness).</li> 
                                             <li>Tremor-controlling drugs are not usually
                                             effective in reducing cerebellar tremors.</li> <li>Driving ability should be assessed by professionals
                                             periodically.</li>
@@ -79,17 +79,17 @@
 										</ul>
 										<h2>Sight</h2>
                                         <ul style="list-style-type:disc;" >
-											<li>Ophthalmology consultation may help with refractive or surgical management of diplopia.</li> 
-                                            <li>Prisms in glasses may help.</li>
+											<li>Ophthalmology consultation may help with refractive or surgical management of double vision.</li> 
+                                            <li>Prisms in glasses, or in some cases surgery, may help.</li>
                                             <li>Ampyra can help with nystagmus (extra wiggly Eye movements) and it might help with vertigo</li>
 										</ul>
 										<h2>Speech</h2>
                                         <ul style="list-style-type:disc;" >
-											 <li>Speech therapy and communication devices may help with dysarthria.</li> 
+											 <li>Speech therapy and communication devices may help with speech clarity.</li> 
 										</ul>
                                         <h2>Eating</h2>
                                             <ul style="list-style-type:disc;">
-											 <li>Consider feeding assessment if dysphagia becomes troublesome. Video esophagrams
+											 <li>Consider feeding assessment if eating becomes difficult. Video esophagrams
                                             may help identify safest behaviors and consistency of food least likely to trigger aspiration.</li>
                                             <li>Thicker food consistencies and chin tuck, with head tilted down and straight, may help.</li>
                                             <li><div style="float:left;width:70%;height: auto">
