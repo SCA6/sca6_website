@@ -20,16 +20,13 @@
                                             progression of SCA6 symptoms.
 										</p>
 										<p>
-											An article was published in the New England Journal of Medicine describing a successful
-                                            clinical trial using RNA-based therapy for Huntington disease. Even though not SCA6, we are 
-                                            hopeful that a similar RNA-based strategy, though specific to SCA6 as conceived by Dr. Gomez 
-                                            in his mouse model for SCA6, might provide hope for an effective clinical trial in the future
+											We are hopeful that an RNA-based strategy might provide hope for an effective clinical trial in the future
                                             to prevent progression of SCA6 symptoms.
 										</p>
                                         <p>
 											The research strategy being pursued by Dr. Gomez's lab to inhibit formation of the a1ACT 
                                             protein, the protein that causes SCA6, is described here: <a href="SCA6MechanismDetail.aspx">SCA6 Therapeutic Strategy</a>. This was 
-                                            generously created and shared by our SCA6 Network Scientist, "S." She also made a technical <a href="SCA6Glossary.aspx">glossary</a>.
+                                            generously created by a member (PhD Molecular Scientist) of our SCA6 Network, along with a technical <a href="SCA6Glossary.aspx">glossary</a>.
 										</p>
 								<ul>
                                 <li>
@@ -70,7 +67,7 @@
                                 <li>
                                     <!-- <img src="images/pic06.jpg" alt="" /> -->
                                     <p>
-                                        This article is from a journal with restricted access and does not have a means to view for free. It's here for reference:<br />
+                                        This article is from a journal with restricted access:<br />
                                         <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.410420616?sid=nlm%3Apubmed">Spinocerebellar ataxia type 6: gaze-evoked and vertical nystagmus, Purkinje cell degeneration, and variable age of onset</a>
                                     </p>
                                 </li>                                    

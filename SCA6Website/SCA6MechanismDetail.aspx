@@ -11,11 +11,12 @@
 										<header>
 											<h2>Understanding the molecular basis of SCA6</h2>
 										</header>
+										<img src="images/SCA6Expression-v8.jpg" alt="" style="width:800px;"  />
 										<p>
 										Understanding the molecular basis of SCA6 suggests a therapeutic strategy.
 										</p>
-<img src="images/ASO&miRNA therapy cartoon v3.jpg" alt="" style="width:800px;"  />
 
+<img src="images/ASO&miRNA therapy cartoon v3.jpg" alt="" style="width:800px;"  />
 
 
                                       <ul><u>In summary:</u><br />									               
